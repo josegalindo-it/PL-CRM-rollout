@@ -6,11 +6,11 @@ rol_u_oportunidad: "Senior Project Manager — Global CRM Rollout & Vendor Manag
 tipo: oferta-freelance
 idioma: en
 fecha: "2026-09-22"
-cv_pdf: ""
+cv_pdf: "assets/cv-pl-crm-rollout.pdf"
 linkedin_url: "https://www.linkedin.com/in/josegalindo/"
 github_url: ""
 email_contacto: "opportunities@josegalindo.net"
-url_publicada: ""
+url_publicada: "https://proposals.josegalindo.net/PL-CRM-rollout/"
 telefono: "+34 682 832 341"
 nombre_completo: "José Francisco Galindo Egea"
 credenciales: "PMP®"
@@ -22,19 +22,28 @@ pie_pagina: "José Galindo — Global CRM Rollout & Vendor Management PM"
 # Trazabilidad — obligatorios.
 # Historial de version_documento (independiente de plantilla_version):
 # v0.1 (2026-09-22) — borrador redactado por Claude (Ruta B, PRIMER caso real ejecutado)
-#                      a partir de PROPUESTA_LifeSciences_CRM_Rollout_PM.md (brief +
+#                      a partir de PROPOSAL_LifeSciences_CRM_Rollout_PM.md (brief +
 #                      Job Description en crudo) y FACT_SHEETS.md. Sin cifras de logro
 #                      específicas de CRM/life sciences en FACT_SHEETS.md — "Qué aporto"
 #                      usa las cifras de cabecera validadas (§6), no logros ad-hoc.
 #                      cliente_u_organizacion vacío (no nombrado en la oferta); títulos
 #                      de posicionamiento y plan/riesgos sin confirmar por Jose.
+# v0.2 (2026-09-22) — añadido el CV adjunto por Jose (cv_pdf + botón "Download CV"
+#                      en el hero); renombrado a assets/cv-pl-crm-rollout.pdf para
+#                      seguir la misma convención que los demás proyectos.
+# v0.3 (2026-09-22) — rellenado url_publicada (proposals.josegalindo.net/PL-CRM-rollout/),
+#                      inferido de la convención de URL del toolkit y del mensaje de
+#                      postulado que Jose ya usa para esta oportunidad; necesario para
+#                      generar POST_MESSAGE_LifeSciences_CRM_Rollout_PM.md (Fase 2).
 plantilla_base: MICROSITE_TEMPLATE.en.md
 plantilla_version: "0.4"
-version_documento: "0.1"
+version_documento: "0.3"
 
 botones_hero:
   - etiqueta: "See why I'm a fit →"
     destino: "#motivacion"
+  - etiqueta: "Download CV"
+    destino: cv
   - etiqueta: LinkedIn
     destino: linkedin
 

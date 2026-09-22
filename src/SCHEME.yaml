@@ -8,11 +8,11 @@ metadata:
   tipo: oferta-freelance
   idioma: en
   fecha: '2026-09-22'
-  cv_pdf: ''
+  cv_pdf: assets/cv-pl-crm-rollout.pdf
   linkedin_url: https://www.linkedin.com/in/josegalindo/
   github_url: ''
   email_contacto: opportunities@josegalindo.net
-  url_publicada: ''
+  url_publicada: https://proposals.josegalindo.net/PL-CRM-rollout/
   telefono: +34 682 832 341
   nombre_completo: José Francisco Galindo Egea
   credenciales: PMP®
@@ -31,6 +31,8 @@ bloque_candidatura:
   botones:
   - etiqueta: See why I'm a fit →
     destino: '#motivacion'
+  - etiqueta: Download CV
+    destino: cv
   - etiqueta: LinkedIn
     destino: linkedin
 subbloque_propuesta:
@@ -176,4 +178,4 @@ pie_pagina: José Galindo — Global CRM Rollout & Vendor Management PM
 procedencia:
   plantilla_base: MICROSITE_TEMPLATE.en.md
   plantilla_version: '0.4'
-  version_documento: '0.1'
+  version_documento: '0.3'
