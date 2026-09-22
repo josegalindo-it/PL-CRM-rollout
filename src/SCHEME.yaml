@@ -1,0 +1,179 @@
+# GENERADO AUTOMÁTICAMENTE desde SCHEME.md — NO EDITAR A MANO.
+# Cualquier cambio se perderá en la siguiente ejecución de build.py.
+
+metadata:
+  slug: pl-crm-rollout
+  cliente_u_organizacion: ''
+  rol_u_oportunidad: Senior Project Manager — Global CRM Rollout & Vendor Management (Life Sciences)
+  tipo: oferta-freelance
+  idioma: en
+  fecha: '2026-09-22'
+  cv_pdf: ''
+  linkedin_url: https://www.linkedin.com/in/josegalindo/
+  github_url: ''
+  email_contacto: opportunities@josegalindo.net
+  url_publicada: ''
+  telefono: +34 682 832 341
+  nombre_completo: José Francisco Galindo Egea
+  credenciales: PMP®
+  id_oportunidad: LifeSciences_CRM_Rollout_PM
+  titulo_pagina: José Galindo — Global CRM Rollout & Vendor Management PM
+  meta_descripcion: Propuesta de José Galindo para el rol de Senior Project Manager / CIO delivery lead
+    en un rollout global de CRM (Veeva/Salesforce) multi-vendor, multi-país, para una compañía de life
+    sciences.
+bloque_candidatura:
+  eyebrow: Freelance Proposal · Global CRM Rollout (Veeva/Salesforce) · Life Sciences
+  titulo_candidatura: Holding vendors accountable on a global CRM rollout — without configuring a single
+    platform myself.
+  subtitulo_candidatura: 'A proposal for the Senior Project Manager / CIO delivery lead role: vendor governance
+    and integrated programme discipline across a multi-country, multi-vendor Veeva/Salesforce rollout
+    for a life-sciences commercial organization.'
+  botones:
+  - etiqueta: See why I'm a fit →
+    destino: '#motivacion'
+  - etiqueta: LinkedIn
+    destino: linkedin
+subbloque_propuesta:
+  motivacion:
+    titulo: The role this brief describes is a governance role, not a platform role — and that's exactly
+      my lane.
+    subtitulo: ''
+    parrafos:
+    - texto: 'The brief is explicit on this point: "you will not be configuring the platforms yourself...
+        your job is to make sure the people who do deliver on time, on budget and to the standard the
+        business needs." That is precisely the kind of engagement I look for — being the single point
+        of coordination across several vendors and implementation partners working in parallel, holding
+        them to their statements of work, and keeping business and IT stakeholders aligned through a multi-country
+        rollout. I want to be upfront about one thing: I do not have prior life-sciences or Veeva/Salesforce-specific
+        delivery experience. What I bring instead is the same vendor-accountability and programme-governance
+        discipline this role is built around, applied previously at comparable scale in other regulated,
+        multi-vendor environments.'
+      lede: true
+    eyebrow: Motivation
+    etiqueta_nav: ''
+  aportaciones:
+    titulo: Twenty years of vendor accountability and programme governance at enterprise scale.
+    elementos:
+    - etiqueta: ''
+      subtitulo: Multi-vendor P&L and executive governance
+      cuerpo: acted as executive single point of contact for a €6.5M/year, 75-professional multi-vendor
+        IT account — the same vendor-accountability model this role's CIO delivery lead mandate calls
+        for.
+    - etiqueta: ''
+      subtitulo: Enterprise programme governance
+      cuerpo: directed single-program PMO governance exceeding 200,000 delivery hours (215,000 in the
+        largest), and more than 500,000 hours cumulative across enterprise programs — the scale of integrated
+        planning, steering and executive reporting a global, multi-vendor rollout needs.
+    - etiqueta: ''
+      subtitulo: Managed-services and SLA oversight
+      cuerpo: currently governs a managed-services environment above 130,000 hours/year, holding delivery
+        partners accountable to service levels and escalation paths — the same discipline vendor supervision
+        demands here.
+    - etiqueta: ''
+      subtitulo: Delivery under regulatory compliance
+      cuerpo: delivered RDA-BI/BCBS 239, a regulated cross-team program (58,000 hours) for a Tier-1 financial
+        institution — direct experience operating under strict compliance and audit requirements, the
+        same posture a GDPR/HCP-transparency-bound rollout needs, even though the regulated domain differs.
+    parrafo_intro: []
+    nota_final:
+    - PMP® and ITIL® 4 Foundation certified.
+    eyebrow: What I bring
+    etiqueta_nav: ''
+  proyecto:
+    titulo: How I'd structure vendor and programme governance for this rollout.
+    problema:
+      subtitulo: The problem
+      cuerpo: 'Rolling out CRM capabilities (Veeva, Salesforce, or a combination) to a commercial organization
+        across multiple markets, through several vendors and implementation partners working in parallel,
+        alongside global and local business teams. The exposure is not platform configuration itself —
+        that sits with the platform providers and systems integrators — but delivery and governance risk
+        around it: uncoordinated vendor dependencies and handovers, local markets drifting from the global
+        template without challenge, and market-readiness gaps (data migration, training, compliance sign-off)
+        surfacing only at go-live.'
+    solucion:
+      subtitulo: The proposed solution
+      cuerpo: 'A standardized vendor-governance and programme-control methodology, not dependent on prior
+        Veeva/Salesforce or life-sciences-specific experience: a single point of contact across all vendors,
+        structured SOW/milestone/SLA oversight, steering committees and working groups with explicit decision
+        rights, and a market-readiness gating model that sequences data migration, local configuration,
+        training and compliance sign-off before every go-live. Platform-specific fluency and life-sciences
+        commercial context are built in direct coordination with the platform vendors'' functional leads
+        and the client''s business/compliance teams, without that gap sitting on the programme''s critical
+        path.'
+    arquitectura:
+      flujo: []
+      pie: ''
+      imagen: ''
+      puntos:
+      - etiqueta: Vendor & SOW governance
+        descripcion: single point of contact across all vendors (platform providers, systems integrators,
+          data providers, content agencies); milestones, deliverables and SLAs tracked and escalated against
+          each statement of work.
+      - etiqueta: Cadence
+        descripcion: steering committees, vendor boards and cross-vendor working groups, each with explicit
+          decision rights.
+      - etiqueta: Programme control
+        descripcion: RAID log, budget tracking and status reporting maintained for the CIO and executive
+          sponsors; global template vs. local deviation tracked and challenged explicitly, not left to
+          drift.
+      - etiqueta: Market readiness gates
+        descripcion: data migration, local configuration, training, compliance sign-off and hypercare
+          sequenced and gated per market before go-live.
+      - etiqueta: Boundary, stated explicitly
+        descripcion: this architecture governs vendor delivery, programme control and market readiness.
+          It does not extend into Veeva/Salesforce platform configuration or life-sciences commercial
+          strategy, which sit with the platform providers/systems integrators and the client's business
+          teams respectively.
+      aclaracion: vendor and programme governance for the rollout — not Veeva/Salesforce platform configuration,
+        which sits with the platform providers and systems integrators
+    cita: ''
+    eyebrow: Project · Proposal
+    etiqueta_nav: Project
+  plan_riesgos:
+    titulo: Governance in place from week one, not discovered at the first missed handover.
+    primera_semana:
+      subtitulo: First week
+      elementos:
+      - etiqueta: Vendor & stakeholder mapping
+        descripcion: meet the CIO, the business/IT/commercial/compliance stakeholders and every vendor
+          (platform providers, systems integrators, data providers, content agencies) to confirm current
+          SOWs, milestones and the state of the integrated plan.
+      - etiqueta: Governance cadence stood up
+        descripcion: launch the RAID log, budget tracker and status reporting, and set the steering committee,
+          vendor board and working-group cadence with explicit decision rights, from day one.
+      - etiqueta: Market-readiness baseline
+        descripcion: confirm the data migration/local configuration/training/compliance sign-off/hypercare
+          sequencing already defined per market, and flag any gaps against the global template.
+    riesgos:
+      subtitulo: Risks
+      elementos:
+      - etiqueta: Vendor dependency and handover gaps
+        descripcion: hold a single integrated plan across all vendors with cross-vendor dependencies and
+          handovers tracked explicitly, escalated at the vendor board rather than discovered at go-live.
+      - etiqueta: Local markets drifting from the global template without governance
+        descripcion: apply a documented process to challenge and approve local deviations, keeping global-vs-local
+          trade-offs visible to the steering committee instead of resolved informally.
+      - etiqueta: Compliance or readiness slippage at market go-live
+        descripcion: gate every market's go-live behind an explicit readiness checklist (data migration,
+          training, compliance sign-off) — the same cutover-gating discipline applied on prior regulated,
+          multi-vendor programs.
+    eyebrow: Plan & Risks
+    etiqueta_nav: Plan
+  cierre:
+    titulo: Ready to be the CIO's single point of accountability from week one.
+    subtitulo: Fully remote, with availability for the occasional on-site workshop this role requires
+      — happy to confirm full-time remote availability directly, as requested. I'd welcome a conversation
+      to walk through how I would structure vendor governance and programme control for this rollout across
+      every market.
+    eyebrow: Closing
+    etiqueta_nav: Contact
+    botones:
+    - etiqueta: Connect on LinkedIn
+      destino: linkedin
+    - etiqueta: Write an email
+      destino: email
+pie_pagina: José Galindo — Global CRM Rollout & Vendor Management PM
+procedencia:
+  plantilla_base: MICROSITE_TEMPLATE.en.md
+  plantilla_version: '0.4'
+  version_documento: '0.1'
